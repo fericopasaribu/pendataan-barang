@@ -10,7 +10,7 @@
 1. Clone Project
    
    ```bash
-   git clone https://github.com/fericopasaribu/Barang.git
+   git clone https://github.com/fericopasaribu/pendataan-barang.git
    ```
    
 3. Install Dependencies
